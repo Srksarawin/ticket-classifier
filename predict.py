@@ -1,4 +1,6 @@
 """
+Comments for better understanding of this project - Developer Sarawin
+
 Real-time ticket classification.
 Usage:
     python predict.py                          -> interactive CLI demo
