@@ -1,0 +1,41 @@
+text,category
+"Invoice amount incorrect. My latest invoice shows double the amount I was quoted. Please correct the billing charge.",Billing
+"Refund not received. I cancelled my subscription three weeks ago and still have not received my refund to my card.",Billing
+"Credit card declined during checkout. I tried paying my monthly subscription fee but the payment kept failing.",Billing
+"Need copy of receipt. Can you send me an invoice/receipt for last month's payment for my accounting records?",Billing
+"Overcharged this month. I was charged twice for the same plan this billing cycle, please issue a refund.",Billing
+"Upgrade plan billing question. If I upgrade to the premium plan mid cycle, how will the prorated charge be calculated?",Billing
+"Subscription auto renewed without consent. I want to dispute the charge and get a refund for the annual renewal.",Billing
+"Payment method update failing. I am trying to update my credit card on file but the billing page throws an error.",Billing
+"Wrong currency charged on invoice. My invoice shows USD but my account is set to EUR, please fix the billing.",Billing
+"Late payment penalty dispute. I was charged a late fee even though I paid before the due date, please review my account.",Billing
+"Cannot login to my account. I keep getting an invalid password error even after resetting my password twice.",Technical
+"App crashes on startup. Every time I open the mobile app it crashes immediately after the splash screen.",Technical
+"Website is down for everyone. The production site is returning a 500 error and none of my team can access it.",Technical
+"API returning 403 errors. Our integration suddenly started getting authentication errors on every API call.",Technical
+"File upload not working. When I try to upload a document larger than 10MB the upload just fails silently.",Technical
+"Sync feature not working. My data is not syncing between the desktop app and mobile app anymore.",Technical
+"Page loading extremely slow. The dashboard takes over a minute to load and sometimes times out completely.",Technical
+"Bug in export feature. Exporting to CSV produces a corrupted file that will not open in Excel.",Technical
+"Two factor authentication not sending code. I never receive the SMS code needed to complete login.",Technical
+"System is down, urgent outage. Our entire production environment is not working and customers are affected right now.",Technical
+"How do I apply for parental leave. I need to understand the process and required documents for maternity leave.",HR
+"Question about health insurance enrollment. When does the open enrollment period start for company health benefits.",HR
+"Requesting a copy of my employment letter. I need an official letter for a visa application from HR.",HR
+"Payroll discrepancy in my salary slip. My salary this month does not match my offer letter, please clarify.",HR
+"How many paid leave days do I have left. I want to check my remaining vacation balance for this year.",HR
+"Need to update my bank details for salary. Please update my direct deposit account information with HR.",HR
+"Onboarding paperwork not received. I joined last week but have not received my onboarding documents yet.",HR
+"Complaint about workplace harassment. I would like to file a formal complaint regarding a coworker's behavior.",HR
+"Resignation letter submission process. What is the notice period and process for submitting my resignation.",HR
+"Performance review schedule question. When will my annual performance review be conducted this year.",HR
+"What are your business hours. I want to know when your support team is available for calls.",General
+"How do I contact sales for a demo. I am interested in learning more about your enterprise plan.",General
+"General feedback about your product. I really like the new interface but have a few suggestions.",General
+"Where can I find your privacy policy. I need to review your data handling practices before signing up.",General
+"Do you offer student discounts. I am a college student and want to know about any available discounts.",General
+"How do I delete my account permanently. I want to close my account and remove all my data.",General
+"Is there a mobile app available. I only see the web version and want to know about mobile support.",General
+"Partnership inquiry for collaboration. We would like to discuss a potential partnership with your company.",General
+"Requesting product documentation. Could you share the user guide or documentation for your platform.",General
+"Just wanted to say thank you. Your support team helped me last week and I appreciate the great service.",General
