@@ -11,9 +11,9 @@ Routes an incoming support ticket to **Billing / Technical / HR / General** usin
 ## Run it
 ```bash
 pip install scikit-learn pandas joblib
-python3 train.py              # trains + evaluates, saves model.joblib
-python3 predict.py            # interactive CLI — type a ticket, get category/confidence/priority
-python3 predict.py "The app crashes every time I open it"   # one-shot classification
+python train.py              # trains + evaluates, saves model.joblib
+python predict.py            # interactive CLI — type a ticket, get category/confidence/priority
+python predict.py "The app crashes every time I open it"   # one-shot classification
 ```
 
 ## Design choices
