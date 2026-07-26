@@ -1,6 +1,6 @@
 # Auto Email / Ticket Categorizer
 
-Routes an incoming support ticket to **Billing / Technical / HR / General** using TF-IDF + a classic sklearn classifier, with confidence scoring, a low-confidence human-review fallback, and keyword-based urgency tagging. For further understanding and detailed review / documentation of this project - refer /PROJECT_DOC.md
+Routes an incoming support ticket to **Billing / Technical / HR / General** using TF-IDF + a classic sklearn classifier, with confidence scoring, a low-confidence human-review fallback, and keyword-based urgency tagging. For further understanding and detailed review / documentation of this project - refer [PROJECT_DOC.md](PROJECT_DOC.md)
 
 ## Files
 - `data/tickets.csv` — labeled training data (40 tickets, 4 classes)
