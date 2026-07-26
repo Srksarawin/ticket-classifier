@@ -225,13 +225,13 @@ Ticket: The production server is down right now, urgent, customers can't log in
 pip install scikit-learn pandas joblib
 
 # 2. Train (optional — model.joblib is already included pre-trained)
-python3 train.py
+python train.py
 # prints accuracy / precision / recall / confusion matrix for both models,
 # then saves the winning model to model.joblib
 
 # 3. Classify tickets
-python3 predict.py "Can't log into my account, tried resetting password twice"     # one-shot
-python3 predict.py                                                                   # interactive CLI
+python predict.py "Can't log into my account, tried resetting password twice"     # one-shot
+python predict.py                                                                   # interactive CLI
 ```
 
 This Project have No external API keys, no internet access, and no GPU required — everything runs locally with `scikit-learn`, `pandas`, and `joblib`.
